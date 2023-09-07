@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mk-todolist": {
+      "hosting": {
+        "firebase-todolist": [
+          "mk-todolist"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mk-todolist"
+  }
+}
